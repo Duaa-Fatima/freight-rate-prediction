@@ -1,0 +1,4 @@
+,MAE ($),RMSE ($),MAPE (%),Median APE (%)
+Naive (equipment x distance bucket),146.46,670.06,6.42,3.42
+Single-stage boosting,152.9,675.52,6.22,3.71
+Two-stage (final),107.49,663.65,4.47,1.74

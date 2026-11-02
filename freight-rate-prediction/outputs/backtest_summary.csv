@@ -1,0 +1,7 @@
+subset,model,MAE ($),RMSE ($),MAPE (%),Median APE (%)
+all loads,Naive (equipment x distance bucket),161.33,644.75,7.04,4.31
+excluding rate spikes,Naive (equipment x distance bucket),120.53,243.82,6.61,4.28
+all loads,Single-stage boosting,118.96,634.07,5.04,2.51
+excluding rate spikes,Single-stage boosting,77.86,213.28,4.58,2.49
+all loads,Two-stage (final),116.04,628.77,5.04,2.5
+excluding rate spikes,Two-stage (final),75.47,218.52,4.59,2.48
